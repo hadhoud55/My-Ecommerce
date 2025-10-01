@@ -1,5 +1,11 @@
 # 🛒 E-Commerce Web Application
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Vue.js](https://img.shields.io/badge/Vue.js-2.6-brightgreen.svg)](https://vuejs.org/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.7.5-green.svg)](https://spring.io/projects/spring-boot)
+[![H2 Database](https://img.shields.io/badge/H2-Database-blue.svg)](https://www.h2database.com/)
+[![GitHub stars](https://img.shields.io/github/stars/hadhoud55/My-Ecommerce?style=social)](https://github.com/hadhoud55/My-Ecommerce/stargazers)
+
 A **full-stack e-commerce web application** built with **Spring Boot (backend)** and **Vue.js (frontend)**.  
 The app features **JWT authentication**, **role-based access control** (Admin/User), product management, and a shopping cart system.  
 It uses an **H2 in-memory database** for easy setup.
